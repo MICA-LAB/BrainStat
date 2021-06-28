@@ -142,4 +142,5 @@ for i in range(0, 2):
             fill=np.nan,
         )
     )
-# plot_hemispheres(left_surface, right_surface, vertexwise_data, embed_nb=True)
+
+plot_hemispheres(left_surface, right_surface, vertexwise_data)
